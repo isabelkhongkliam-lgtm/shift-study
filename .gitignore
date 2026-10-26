@@ -1,0 +1,2 @@
+echo venv/>.gitignore
+dir results
